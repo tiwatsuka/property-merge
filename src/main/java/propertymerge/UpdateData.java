@@ -1,4 +1,4 @@
-package propertyupdate;
+package propertymerge;
 
 import java.util.List;
 

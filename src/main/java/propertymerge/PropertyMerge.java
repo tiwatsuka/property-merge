@@ -1,4 +1,4 @@
-package propertyupdate;
+package propertymerge;
 
 import java.io.FileInputStream;
 import java.io.InputStream;
@@ -9,7 +9,7 @@ import java.util.List;
 import java.util.TreeSet;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
-public class PropertyUpdate {
+public class PropertyMerge {
 
     public static void main(String[] args){
 
